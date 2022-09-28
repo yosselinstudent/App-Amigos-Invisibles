@@ -1,0 +1,66 @@
+{
+    "results":[
+        {
+            "gender":"female",
+            "name":{
+                "title":"Miss",
+                "first":"Nicky",
+                "last":"Douglas"
+            },
+            "location":{
+                "street":{
+                    "number":2102,
+                    "name":"The Green"
+                },
+                "city":"Newry",
+                "state":"Hampshire",
+                "country":"United Kingdom",
+                "postcode":"U0Y 1FS",
+                "coordinates":{
+                    "latitude":"-9.6112",
+                    "longitude":"137.2765"
+                },
+                "timezone":{
+                    "offset":"+7:00",
+                    "description":"Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email":"nicky.douglas@example.com",
+            "login":{
+                "uuid":"b30d3e97-ddc1-43b4-b9ea-fa14c4c13b01",
+                "username":"redwolf702",
+                "password":"today",
+                "salt":"ZXemQppL",
+                "md5":"045aa7a9503b0ab8fd14aac1df473716",
+                "sha1":"0f92d3b4283dc8c57e7059838e270f754ebb448a",
+                "sha256":"bf5ab5069d735c1ed502a7f1942ee3a0f2db3f0cfb360f8dab17aa258c462a01"
+            },
+            "dob":{
+                "date":"1950-02-05T04:02:53.556Z",
+                "age":72
+            },
+            "registered":{
+                "date":"2007-08-19T04:38:17.648Z",
+                "age":15
+            },
+            "phone":"016974 21265",
+            "cell":"07139 838646",
+            "id":{
+                "name":"NINO",
+                "value":"NW 52 71 71 I"
+            },
+            "picture":{
+                "large":"https://randomuser.me/api/portraits/women/76.jpg",
+                "medium":"https://randomuser.me/api/portraits/med/women/76.jpg",
+                "thumbnail":"https://randomuser.me/api/portraits/thumb/women/76.jpg"
+            },
+            "nat":"GB"
+        }
+    ],
+    "info":{
+        "seed":"94b6907a9396ab7e",
+        "results":1,
+        "page":1,
+        "version":"1.4"
+    }
+}
